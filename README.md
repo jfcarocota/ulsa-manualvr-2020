@@ -43,7 +43,7 @@ Alrededor de 1960 la agitación de la guerra fría y las ideas de la utopía mar
 Los primeros cascos de realidad virtual. Los primeros pencil sobre pantallas. Todo eso se coció en la mente de Ivan Sutherland hace más de medio siglo. Así trabajaba este informático en el laboratorio Lincoln del MIT en los sesenta y así trabaja en la actualidad. A sus 80 años, sigue rodeándose de jóvenes a los que escucha atentamente para poder saber por dónde irá el futuro. (El Independiente, 2019)
 Sutherland es conocido como el padre de los gráficos por ordenador. Pero también como el pionero de los cascos de realidad virtual. Inventó el primer prototipo de Óculos para realidad virtual. 
 Dando clases en Harvard, visité a Bell Helicopter. El tenían unos cascos para poder ver en infrarrojo, gracias a una camarita que tenían en el techo. Se me ocurrió que podían sustituir la cámara por un ordenador y fabricar un mundo sintético que reprodujese un tipo de realidad. (Sutherland)
-=======
+
 # Shading
 
 El Shading es el proceso de representación que consiste en calcular el color de los objetos en la escena 3D, todo esto girando en torno al concepto de la luz  de manera virtual.
