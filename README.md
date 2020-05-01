@@ -10,7 +10,7 @@ Los primeros cascos de realidad virtual. Los primeros pencil sobre pantallas. To
 Sutherland es conocido como el padre de los gráficos por ordenador. Pero también como el pionero de los cascos de realidad virtual. Inventó el primer prototipo de Óculos para realidad virtual. 
 Dando clases en Harvard, visité a Bell Helicopter. El tenían unos cascos para poder ver en infrarrojo, gracias a una camarita que tenían en el techo. Se me ocurrió que podían sustituir la cámara por un ordenador y fabricar un mundo sintético que reprodujese un tipo de realidad. (Sutherland)
 
-# Computer Graphic
+# Gráficos por computadora
 
 Las computadoras no solo empezaron a aparecer en los hogares, sino    que también mejoraron significativamente en cuanto a rendimiento,    potencia del procesador, memoria y almacenamiento, lo que permitió    que se crearan terminales con una mejor resolución para desplegar    gráficos por computadora, que además fueron evolucionando para entrar    a equipos más poderosos en lugar de mantenerse en las computadoras de    trabajo o de hogar. Los equipos se comenzaron a volverse inteligentes    y más autónomos, lo que permitió un crecimiento acelerado en el área,    por otra parte, las computadoras que se desarrollaban en esta década    contaban con una interfaz gráfica de usuario, lo cual se convirtió en    la base de la tecnología multimedia.
 
