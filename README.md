@@ -43,6 +43,89 @@ Las librerías ofrecen:
 
 Al paso de los años la tecnología evoluciona las universidades tienen que cambiar su método de enseñanza se caracterizan por medio de estrategias y enfoque del aprendizaje, ya que se necesita esfuerzo, energía y creencias sobre la capacidad para aprender nuevos métodos de tecnología a los videojuegos, se encuentra lo necesario par ala ejecución de las aplicación mediante una máquina virtual y el sistema está optimizado para que se ejecuten múltiples instancias, donde también se puede desarrollar java, donde las universidades les enseñan la programación básica C, C++ y hasta su arquitectura, ya que esto está diseñada para simplificar los componentes de cualquier aplicación para su capacidad de usuario. Las universidades uno de los básicos de OpenGl, uno de los básicos de creación de videojuegos.
 
+# REALIDAD VIRTUAL
+
+La Realidad Virtual (Siglas en inglés VR) es un entorno de escenas y objetos de
+apariencia real generado mediante tecnología informática que crea en el usuario la
+sensación de estar inmerso en él, conocido como gafas o casco de realidad virtual.
+
+Todo comenzó con el Sensorama, un simulador multisensorial, creado por Morton
+Heilig entre 1960 y 1962. Se trataba de una película pregrabada en color y estéreo,
+que fue completada con un sonido binaural, con olor, con viento y con experiencias
+añadidas de vibración en el asiento.
+
+Éste fue el primer acercamiento en la creación de un sistema de realidad virtual con
+todas las características de un ambiente virtual, aunque no era interactivo.
+En 1965, Ivan Sutherland propuso la solución definitiva para crear realidad virtual:
+un concepto de construcción artificial del mundo real, que incluía gráficos
+interactivos, retroalimentación de fuerza, sonido, olfato y gusto. A este concepto se
+le llamó The Ultimate Display.
+La Espada de Damocles fue el primer sistema de RV realizado sobre hardware, no
+solo como un concepto. Ivan Sutherland construyó un dispositivo considerado como
+la primera pantalla montada en la cabeza (Head Mounted Display, HMD), con un
+adecuado seguimiento de ésta a tiempo real. La imagen estaba contemplada por
+una vista estéreo que se actualizaba correctamente de acuerdo con la posición de la
+cabeza del usuario y su orientación.
+La realidad virtual ha evolucionado desde los años 60 hasta la actualidad.
+Gracias a esta tecnología, podemos sumergirnos en videojuegos como si fuéramos
+los propios personajes, aprender a operar un corazón o mejorar la calidad de un
+entrenamiento deportivo para obtener el máximo rendimiento.
+Para mejorar estas experiencias, se puede hacer el uso de otros dispositivos como
+sensores de movimiento, audífonos, guantes, etc.
+Estos dispositivos son tan inmersivos que privan parcial o totalmente el sentido de la
+vista del usuario, poniendo en riesgo la integridad del mismo y otros individuos a su
+alrededor.
+Para evitar esto, algunos dispositivos actuales cuentan con detectores de
+movimiento, que marcan los límites del área permitida para la libre movilidad:
+cuando el usuario llega a estos límites definidos por el dispositivo y los cálculos
+constantes durante el movimiento, al usuario se le informa que se encuentra fuera
+de la zona segura y así se puedan evitar accidentes.
+
+# REALIDAD AUMENTADA
+
+La realidad aumentada (siglas en inglés AR) nos permite añadir capas de información visual
+sobre el mundo real que nos rodea, utilizando la tecnología, dispositivos como pueden ser
+nuestros propios teléfonos móviles. Esto nos ayuda a generar experiencias que aportan un
+conocimiento relevante sobre nuestro entorno, y además recibimos esa información en tiempo real.
+
+Al contrario de la realidad virtual, la Realidad Aumentada no es inmersiva y su
+visualización e interacción es a través de un dispositivo que cuenta con una cámara,
+mostrando así el entorno real, pero mostrando elementos gráficos inexistentes
+superpuestos en dicho entorno. Con estos dispositivos también se logra una
+interacción a través de una interfaz y funciones del mismo dispositivo como el gps,
+giroscopio, etc.
+Debido a que esta experiencia no es totalmente inmersiva, no es necesario
+medidas de seguridad o dispositivos que detecten nuestra zona segura ya que el
+
+usuario siempre se encuentra y cuenta con la noción suficiente para detectar que
+aún se encuentra en el entorno real.
+
+Mediante la realidad aumentada, el mundo virtual se entremezcla con el mundo real, de manera
+contextualizada, y siempre con el objetivo de comprender mejor todo lo que nos rodea.
+
+Hay diversos tipos de realidad aumentada dependiendo del objetivo final que se busque, y sobretodo,
+de los componentes del mundo real que entren en juego.
+
+**Imágenes
+Cualquier imagen es válida para colocar contenido de Realidad Aumentada sobre ella.
+En el pasado se utilizaban comúnmente elementos predefinidos, conocidos como "Markers", con
+apariencias similares a las de un código QR.
+
+Ahora, gracias a las nuevas tecnicas de clasificación de imágenes, la realidad aumentada es
+mucho más natural, pudiendo utilizarse cualquier elemento del entorno, como el logo de una empresa,
+una tarjeta de visita, la carta de un restaurante, o el mapa turístico de una ciudad, por citar algunos
+ejemplos.
+
+**Espacios
+La Realidad Aumentada está en continua evolución, tanto es así que hoy en día existen dispositivos que
+nos permiten reconocer cualquier estancia, habitación o espacio donde estemos situados; y además reconocer
+y memorizar la posición de las capacidades físicas el entorno: paredes, techos, suelo, muebles, etc.
+
+**Lugares
+La Realidad Aumentada está en continua evolución, tanto es así que hoy en día existen dispositivos 
+que nos permiten reconocer cualquier estancia, habitación o espacio donde estemos situados; y además
+reconocer y memorizar la posición de las capacidades físicas el entorno: paredes, techos, suelo, muebles, etc.
+
 # Shading
 
 El Shading es el proceso de representación que consiste en calcular el color de los objetos en la escena 3D, todo esto girando en torno al concepto de la luz  de manera virtual.
