@@ -1,4 +1,4 @@
-# Computer Graphic
+# Gráficos por computadora 
 
 Las computadoras no solo empezaron a aparecer en los hogares, sino    que también mejoraron significativamente en cuanto a rendimiento,    potencia del procesador, memoria y almacenamiento, lo que permitió    que se crearan terminales con una mejor resolución para desplegar    gráficos por computadora, que además fueron evolucionando para entrar    a equipos más poderosos en lugar de mantenerse en las computadoras de    trabajo o de hogar. Los equipos se comenzaron a volverse inteligentes    y más autónomos, lo que permitió un crecimiento acelerado en el área,    por otra parte, las computadoras que se desarrollaban en esta década    contaban con una interfaz gráfica de usuario, lo cual se convirtió en    la base de la tecnología multimedia.
 
