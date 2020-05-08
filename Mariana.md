@@ -1,3 +1,35 @@
+# REALIDAD AUMENTADA
+
+
+##Software para realizar Realidad Aumentada
+
+Se mostrarán unos de los software de realidad aumentada  que se pueden utilizar que son:
+
+-**ARToolKit:** 
+-**ATOMIC Authoring Tool:** 
+-**Unity:** 
+
+##Software para realizar Realidad Aumentada
+
+Se mostrarán las plataformas existentes de realidad aumentada están conformadas por herramientas que permiten crear una aplicación personalizada o utilizar aplicaciones que se crean a través de herramientas que son: 
+
+-**Viur:**  
+-**Blippar:** 
+-**ARCore:**
+
+##Herramientas para crear contenidos con realidad aumentada
+
+Existen multitud de herramientas para realizar apps que integren esta nueva tecnología, que son utilizadas como:
+
+-**Augment:** 
+-**Metaio:** 
+-**Vuforia:** 
+-**ZooBurst:** 
+-**Hoppala:** 
+
+
+
+
 # Gráficos por computadora 
 
 Las computadoras no solo empezaron a aparecer en los hogares, sino    que también mejoraron significativamente en cuanto a rendimiento,    potencia del procesador, memoria y almacenamiento, lo que permitió    que se crearan terminales con una mejor resolución para desplegar    gráficos por computadora, que además fueron evolucionando para entrar    a equipos más poderosos en lugar de mantenerse en las computadoras de    trabajo o de hogar. Los equipos se comenzaron a volverse inteligentes    y más autónomos, lo que permitió un crecimiento acelerado en el área,    por otra parte, las computadoras que se desarrollaban en esta década    contaban con una interfaz gráfica de usuario, lo cual se convirtió en    la base de la tecnología multimedia.
