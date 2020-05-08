@@ -6,26 +6,37 @@
 Se mostrarán unos de los software de realidad aumentada  que se pueden utilizar que son:
 
 -**ARToolKit:** 
+
 -**ATOMIC Authoring Tool:** 
+
 -**Unity:** 
+
 
 ## Software para realizar Realidad Aumentada
 
 Se mostrarán las plataformas existentes de realidad aumentada están conformadas por herramientas que permiten crear una aplicación personalizada o utilizar aplicaciones que se crean a través de herramientas que son: 
 
 -**Viur:**  
+
 -**Blippar:** 
+
 -**ARCore:**
+
 
 ## Herramientas para crear contenidos con realidad aumentada
 
 Existen multitud de herramientas para realizar apps que integren esta nueva tecnología, que son utilizadas como:
 
 -**Augment:** 
+
 -**Metaio:** 
+
 -**Vuforia:** 
+
 -**ZooBurst:** 
+
 -**Hoppala:** 
+
 
 
 
