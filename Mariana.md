@@ -1,7 +1,7 @@
 # REALIDAD AUMENTADA
 
 
-##Software para realizar Realidad Aumentada
+## Software para realizar Realidad Aumentada
 
 Se mostrarán unos de los software de realidad aumentada  que se pueden utilizar que son:
 
@@ -9,7 +9,7 @@ Se mostrarán unos de los software de realidad aumentada  que se pueden utilizar
 -**ATOMIC Authoring Tool:** 
 -**Unity:** 
 
-##Software para realizar Realidad Aumentada
+## Software para realizar Realidad Aumentada
 
 Se mostrarán las plataformas existentes de realidad aumentada están conformadas por herramientas que permiten crear una aplicación personalizada o utilizar aplicaciones que se crean a través de herramientas que son: 
 
@@ -17,7 +17,7 @@ Se mostrarán las plataformas existentes de realidad aumentada están conformada
 -**Blippar:** 
 -**ARCore:**
 
-##Herramientas para crear contenidos con realidad aumentada
+## Herramientas para crear contenidos con realidad aumentada
 
 Existen multitud de herramientas para realizar apps que integren esta nueva tecnología, que son utilizadas como:
 
