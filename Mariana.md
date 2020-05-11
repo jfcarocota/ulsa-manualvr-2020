@@ -12,7 +12,7 @@ Se mostrarán unos de los software de realidad aumentada  que se pueden utilizar
 -**Unity:** 
 
 
-## Software para realizar Realidad Aumentada
+## Plataformas para realizar Realidad Aumentada
 
 Se mostrarán las plataformas existentes de realidad aumentada están conformadas por herramientas que permiten crear una aplicación personalizada o utilizar aplicaciones que se crean a través de herramientas que son: 
 
@@ -21,6 +21,7 @@ Se mostrarán las plataformas existentes de realidad aumentada están conformada
 -**Blippar:** 
 
 -**ARCore:**
+
 
 
 ## Herramientas para crear contenidos con realidad aumentada
@@ -38,6 +39,30 @@ Existen multitud de herramientas para realizar apps que integren esta nueva tecn
 -**Hoppala:** 
 
 
+# REALIDAD MIXTA
+
+
+## Librerías para el desarrollo de la realidad mixta
+
+-**MRTK:** 
+
+-**OpenHMD::** 
+
+-**Build Wagon:** 
+
+-**MixCast:** 
+
+## Aplicaciones hechas para  la realidad mixta
+
+-**Educación:** 
+
+-**Inginería:** 
+
+-**Entretenimiento:** 
+
+-**Salud:** 
+
+-**Diseño y Arquitectura:** 
 
 
 
