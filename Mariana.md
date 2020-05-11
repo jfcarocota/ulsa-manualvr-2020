@@ -108,3 +108,16 @@ Al paso de los años la tecnología evoluciona las universidades tienen que camb
 -   Michael Petrotta. (2011). Why are SDL and OpenGL related?. 2020, de stackoverflow Sitio web: https://stackoverflow.com/questions/5769031/why-are-sdl-and-opengl-related.
 -   SFML. (SFP). Using OpenGL in a SFML window. 2020, de SFML Sitio web: https://www.sfml-dev.org/tutorials/2.5/window-opengl.php
 -   Marco Valenzuela Castellanos. (2012). EL DESAFÍO DE LA VIDA UNIVERSITARIA. 2020, de Sitio web: https://scielo.conicyt.cl/scielo.php?script=sci_arttext&pid=S0718-04622013000200010
+-   CONACYT (Condejo Nacional de Ciencia y Tecnología). (2016). Antecedentes la Realidad Aumentada. 7 de mayo del 2020, Sitio web: https://centrosconacyt.mx/objeto/realidadaumentada/
+-   Innovae. (2019). ¿Qué es la Realidad Aumentada?. 7 de mayo del 2020. Sitio web: https://www.innovae.eu/la-realidad-aumentada/
+-   Google. (SFP). SOFTWARE Y HAFTWARE PARA REALIZAR REALIDAD AUMENTADA. 7 de mayo del 2020, de . Sitio web: https://sites.google.com/site/realidadaumentada115/home/software-y-software-para-realizar-realidad-aumentada
+-   Esacademic. (2010). ATOMIC Web Authoring Tool. 7 de mayo del 2020. Sitio web: https://esacademic.com/dic.nsf/eswiki/1256268
+-   Openwebinars. (2019). ¿Qué es Unity?. 8 de mayo del 2020. Sitio web: https://openwebinars.net/blog/que-es-unity/
+-   madridnyc. (SFP). La realidad aumentada en aplicaciones móviles. 8 del mayo del 2020 . Sitio web: https://madridnyc.es/realidad-aumentada-en-apps
+-   Blippar. (2011). Blippar. 8 de mayo del 2020. Sitio web: https://www.blippar.com/
+-   ARCore. (2018). Plataforma ARCore. 8 de mayo del 2020. Sitio web: https://developers.google.com/ar
+-   Viur. (2018). Plataforma Viur. 8 de mayo del 2020. Sitio web: https://viur.net/
+-   BBC news. (2018). ¿Qué es la "realidad mixta" y por qué dicen que 2018 será su año?. 8 de mayo del 2020. Sitio web: https://www.bbc.com/mundo/noticias-42455209
+-   Alfonso Rodríguez Verdera. (2018-2019). Diseño y desarrollo de una aplicación de realidad mixta. 8 de mayo del 2020, de . Sitio web: https://riunet.upv.es/bitstream/handle/10251/127249/Rodr%C3%ADguez%20-%20Dise%C3%B1o%20y%20desarrollo%20de%20una%20aplicaci%C3%B3n%20de%20realidad%20mixta.pdf?sequence=1&isAllowed=y
+-   Lanner America. (2017). Las Mejores Aplicaciones de Realidad Mixta Actualmente. 8 de mayo del 2020. Sitio web: https://www.lanner-america.com/es/blog-es/rv-ra/las-mejores-aplicaciones-de-realidad-mixta-actualmente/
+-   GizTab. (2017). Qué es realidad mixta: Aplicaciones y ejemplos. 8 de mayo del 2020. Sitio web: https://www.giztab.com/que-es-realidad-mixta-como-funciona-aplicaciones-y-ejemplos/
