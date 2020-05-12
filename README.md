@@ -73,11 +73,11 @@ Jonathan Steuer también define la amplitud de la información como una serie de
 <p align:"justify">También es necesario desde la perspectiva de los usuarios explorar el entorno virtual de tamaño real de forma completa y efectiva. Esto demostrará cuán efectiva es la inmersión. Las perspectivas también deben cambiarse sin problemas. Digamos, por ejemplo, que hay una habitación en el entorno virtual y que contiene un pedestal justo en el medio de la habitación, entonces el pedestal debe ser visible para el usuario desde cualquier ángulo de la habitación. El punto de vista también se moverá en consecuencia donde sea que cambie el ángulo del usuario. Sin embargo, el Dr. Frederick Brooks, una leyenda en la tecnología de realidad virtual y los comentarios teóricos que las pantallas deben proyectar una velocidad de cuadros de al menos 20-30 cuadros por segundo para producir una experiencia de usuario eficiente.</p>
 
 <p align:"justify">Joe Bardi. (2019). What is Virtual Reality? [Definition and Examples]. Sitio web:
-	https://www.marxentlabs.com/what-is-virtual-reality/
+	https://www.marxentlabs.com/what-is-virtual-reality/ <br>
 David Wood. Simulations: Definition & Uses. Sitio web:
-	https://study.com/academy/lesson/simulations-definition-uses.html
+	https://study.com/academy/lesson/simulations-definition-uses.html <br>
 ANTYCIP. VIRTUAL REALITY HMDS FOR ENTERPRISE AND INDUSTRIAL MARKETS. Sitio web:
-	https://www.antycipsimulation.com/blogs/vr-hmds-enterprise-industry/
+	https://www.antycipsimulation.com/blogs/vr-hmds-enterprise-industry/ <br>
 Virtual Reality Society. (2017). Virtual Reality Immersion. Sitio web:
-	https://www.vrs.org.uk/virtual-reality/immersion.html
+	https://www.vrs.org.uk/virtual-reality/immersion.html <br>
 </p>
