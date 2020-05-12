@@ -1,26 +1,34 @@
 # REALIDAD AUMENTADA
 
+La Realidad Aumentada es agregar información digital a una imagen del mundo real a través de la cámara de los dispositivos tecnológicos.
+
+En el año de 1957 la primera tecnología basada en realidad aumentada fue creada por Morton Heiling, un cinematógrafo que proponía en su Sensorama una experiencia multisensorial al usuario, compuesta por elementos visuales, sonoros y olfativos.
+
+En el año 1973, el artista informático Myron W. Krueger, creó la primera  instalación de realidad aumentada que mezclaba cámaras de video con un sistema de proyección, para crear un entorno interactivo que respondía a los movimientos de los usuarios por medio de sombras y movimiento.
+Durante la década de los 90 se llevaron a cabo aplicaciones muy interesantes que utilizaban el concepto de realidad aumentada para resolver problemas en ámbitos como la industria o el diseño. Cabe destacar a Tom Caudell, que acuñó el término “realidad aumentada” para describir una aplicación de apoyo al montaje de cableados eléctricos complejos.
+A pesar de que este concepto se inventó hace muchos años, la realidad aumentada es todavía hoy una tecnología emergente, y ha necesitado muchos avances tecnológicos en computación y visualización para alcanzar la madurez. Así surgen las empresas de realidad aumentada, que, al calor de la evolución de estas tecnologías, aprovechan el enorme potencial que tiene la realidad aumentada en multitud de sectores.
+
 
 ## Software para realizar Realidad Aumentada
 
 Se mostrarán unos de los software de realidad aumentada  que se pueden utilizar que son:
 
--**ARToolKit:** 
+-**ARToolKit:** Desarrollado por Hirokazu Kato en 19996 y fue publicado por el HIT Lab de la Universidad de Washington. Permite la creación de aplicaciones de realidad aumentada,en las que se sobrepone imágenes virtuales al mundo real. Actualmente se mantiene como un proyecto de código abierto alojado en SourceForge con licencias comerciales disponibles en ARToolWorks. Se utiliza las capacidades de seguimiento de vídeo, con el fin de calcular, en tiempo real, la posición de la cámara y la orientación relativa a la posición de los marcadores físicos. 
 
--**ATOMIC Authoring Tool:** 
+-**ATOMIC Authoring Tool:** Es un software Multi-plataforma para la creación de aplicaciones de realidad aumentada, el cual es un Front end para la biblioteca ARToolKit. Fue Desarrollado para no programadores, y permite crear rápidamente, pequeñas y sencillas aplicaciones de Realidad Aumentada. La primera versión experimental de ATOMIC Authoring Tool fue desarrollada el 7 de septiembre de 2008 y la primera versión estable fue la 0.6 desarrollada el 6 de marzo de 2009. ATOMIC es proporcionar a la comunidad una herramienta de código abierto que se pueda modificar con facilidad y que no exige demasiados conocimientos técnicos para acceder a la tecnología de la Realidad aumentada.
 
--**Unity:** 
+-**Unity:** Es un motor de videojuego multiplataforma creado por Unity Technologies. La plataforma de desarrollo tiene soporte de compilación con diferentes tipos de plataformas. Engloba herramientas de networking para multijugador, herramientas de navegación NavMesh para Inteligencia Artificial o soporte de Realidad Virtual, pero también renderizado de imágenes, de físicas de 2D/3D, de audio, de animaciones y otros motores. Unity se lanzó en 2005, con el objetivo de "democratizar" el desarrollo del juego haciéndolo accesible para más desarrolladores.
 
 
 ## Plataformas para realizar Realidad Aumentada
 
 Se mostrarán las plataformas existentes de realidad aumentada están conformadas por herramientas que permiten crear una aplicación personalizada o utilizar aplicaciones que se crean a través de herramientas que son: 
 
--**Viur:**  
+-**Viur:**  Es una plataforma que permite crear experiencias digitales de forma rápida y segura gracias a su portal de gestión de contenido donde se puede cargar y editar vídeos, animaciones 3D y cupones, así como configurar funciones personalizadas. 
 
--**Blippar:** 
+-**Blippar:** Es una plataforma que permite crear realidad aumentada y publicarla a través de sus diversas herramientas. Cuenta con SDK para integrar realidad aumentada a aplicaciones existentes.
 
--**ARCore:**
+-**ARCore:** Es una plataforma creada por Google que nos permite crear experiencias reales con realidad aumentada utilizando diferentes API. Crear nuevas experiencias de realidad aumentada que combinen a la perfección los mundos digital y físico. Transforme la forma en que las personas juegan, compran, aprenden, crean y experimentan el mundo juntos, a escala de Google. 
 
 
 
@@ -28,41 +36,49 @@ Se mostrarán las plataformas existentes de realidad aumentada están conformada
 
 Existen multitud de herramientas para realizar apps que integren esta nueva tecnología, que son utilizadas como:
 
--**Augment:** 
+-**Augment:** Esta herramienta te permite mostrar los productos de tu catálogo con imágenes virtuales en 3D, de tal modo que los clientes puedan observar desde todos los ángulos y perspectivas. 
 
--**Metaio:** 
+-**Metaio:** Es la herramienta de desarrollo de aplicaciones de realidad aumentada para móviles más usada, Cuenta con un gran número de funcionalidades especialmente orientadas a los sectores del marketing, la impresión, la automoción y la industria. Marcas como
 
--**Vuforia:** 
+-**Vuforia:** Herramienta completa con la que puedes elaborar todo tipo de aplicaciones de realidad aumentada, reconoce tanto textos como imágenes u objetos tanto en dos como en tres dimensiones e incluye la opción de insertar botones virtuales.
 
--**ZooBurst:** 
+-**ZooBurst:** Esta herramienta está enfocada al ámbito educativo, permite a los usuarios crear libros interactivos en 3D, cuenta con un banco de imágenes.
 
--**Hoppala:** 
+-**Hoppala:** Está enfocada a la creación de contenidos de realidad aumentada geolocalizada. Perfecta para museos o establecimientos que quieran mostrar puntos de interés e información sobre los mismos.
+
+
 
 
 # REALIDAD MIXTA
 
+La realidad mixta o híbrida combina la interactividad de la realidad virtual con el poder visual de la realidad aumentada. El usuario es capaz de sumergirse en un mundo virtual dentro de un entorno real e interactuar al mismo tiempo con esos elementos virtuales de manera inmersiva. 
+La Realidad Mixta es la fusión de los mundos real y virtual para producir nuevos entornos y visualizaciones donde los objetos físicos y digitales coexisten e interactúan en tiempo real. Podríamos decir que la Realidad Mixta abarca lo mejor de los mundos de la Realidad Virtual y la Aumentada.
+De hecho, a menudo se confunde con este última tecnología, pero en realidad es su evolución. Con la Realidad aumentada aparecen elementos virtuales sobre un entorno real y lo visualizamos en una pantalla. 
+
 
 ## Librerías para el desarrollo de la realidad mixta
 
--**MRTK:** 
+-**MRTK:** Se trata de un kit de herramientas de código abierto con una comunidad de desarrolladores apoyada por Microsoft, permite el desarrollo de aplicaciones de realidad mixta en Unity para Windows 10. Este kit proporciona una serie de prototipos y modelos prefabricados listos para usarse ayudando a los desarrolladores a crear contenido de forma más rápida. Además es compatible con la mayoría de dispositivos de realidad mixta como son: Acer Windows Mixed Reality, HP Windows Mixed Reality, Lenovo Explorer, Asus Windows Mixed Reality o HoloLens. 
 
--**OpenHMD::** 
+-**OpenHMD::** Proporciona una API gratuita, de código abierto que permite desarrollar software multiplataforma (Android, OpenBSD, Linux, OS X, Windows) para dispositivos de realidad mixta. OpenHMD ofrece un plugin para el motor de desarrollo Unity que permite controlar el seguimiento de cámara y su rotación, por contra no admite el seguimiento de posición del usuario por lo que se limita su funcionamiento al seguimiento de la cabeza. Además tiene una gran compatibilidad con los dispositivos de RM como: Oculus Rift, HTC Vive, Sony PSVR, Deepoon E2. 
 
--**Build Wagon:** 
+-**Build Wagon:** Es un entorno de desarrollo basado en web para uso exclusivo de las Hololens, permite escribir código en Javascript guardado en la nube para múltiples desarrollos. Además tiene un emulador online que permite simular tus proyectos. Build Wagon tiene dos versiones, una gratis en la que se limita el desarrollo a un proyecto y a 1GB de espacio y la versión plus con proyectos ilimitados y 2GB de espacio en la nube por 35 dólares al mes. 
 
--**MixCast:** 
+-**MixCast:** Es un SDK diseñado para desarrollar aplicaciones y videos de realidad mixta. Tiene compatibilidad con los motores de desarrollo principales como son Unity y Unreal permitiendo un desarrollo más rápido. El software de MixCast crea una salida de vídeo del mundo real en el cual agrega elementos virtuales. Está disponible en dos versiones, una de prueba limitada y una de pago de 50 dólares al año.
 
 ## Aplicaciones hechas para  la realidad mixta
 
--**Educación:** 
+-**Educación:** La realidad mixta se está utilizando en la educación tanto para mejorar la capacidad de los estudiantes para aprender como para asimilar la información, a la vez que se les da la oportunidad de personalizar la forma en que aprenden. Utilizando proyecciones y simulaciones en 3D, los estudiantes pueden interactuar y manipular objetos virtuales para estudiarlos de una manera que sea relevante para ellos mismos y para sus estudios. Al insertar objetos tridimensionales en un aula como medio para medir el tamaño, la forma u otras características de algo, los estudiantes pueden adquirir un sentido más profundo de comprensión de lo que están estudiando. Los estudiantes de la Universidad Case Western Reserve de Ohio pudieron aprovechar el HoloLens de Microsoft para enseñar anatomía y permitir a los profesores enseñar e interactuar con los estudiantes a pesar de estar a cientos de kilómetros de distancia.
 
--**Inginería:** 
+-**Inginería:** La realidad mixta de la ingeniería se está convirtiendo lenta pero seguramente en un cambio de juego. Desde el modelado en 3D y la escultura virtual hasta la guía de reparación remota y las aplicaciones de monitorización de proyectos, hay varias formas en las que el sector de la ingeniería ha comenzado a aprovechar los dispositivos de realidad mixta. Utilizando aplicaciones de modelado 3D en dispositivos de realidad mixta, los profesionales son capaces de construir sus proyectos en un entorno virtual compartido para darles la mejor oportunidad de detectar errores, a la vez que permiten la manipulación en tiempo real de diseños que pueden ser evaluados y comprobados. Las aplicaciones de monitorización de proyectos también están creciendo en popularidad debido a su capacidad para proyectar modelos de diseño en 3D o 4D sobre estructuras a medida que se construyen. Esto puede ayudar a los ingenieros y trabajadores de la construcción a visualizar el progreso, así como a inspeccionar la calidad de lo que ya se ha construido.
 
--**Entretenimiento:** 
+-**Entretenimiento:** El entretenimiento de realidad mixta está presente en compañías como Magic Leap, Lucasfilm e Industrial Light And Magic, todas buscando profundizar en el entretenimiento de realidad mixta. Sin embargo, el intento del Salto Mágico de mezclar la realidad es un poco diferente a la mayoría. Utilizando lo que ellos llaman una Señal de Campo Luminoso Digitalizado Dinámico, la tecnología de Magic Leap proyecta imágenes directamente en el ojo, sin necesidad de que éste rebote de un objeto y luego se dirija hacia los ojos. Esto engaña al cerebro para que piense que el objeto está ahí, cuando en realidad es una proyección.
 
--**Salud:** 
+-**Salud:** Las cirugías sobre el hombro, en las que los estudiantes de cirugía pueden ser enseñados a distancia por expertos mientras realizan cirugías reales, hasta el estudio de la anatomía utilizando entornos de realidad mixta para mapear las diferentes capas del cuerpo humano, el potencial de las aplicaciones de realidad mixta en la asistencia sanitaria y la medicina no puede ser exagerado. Ser capaz de producir modelos tridimensionales de la anatomía con información accesible con un simple gesto podría cambiar la forma en que se enseña la atención de la salud y la medicina, a la vez que se transforma la forma en que los estudiantes de medicina aprenden, utilizando hologramas tridimensionales en un entorno virtual en lugar de diagramas bidimensionales de los libros de texto de medicina aquí en la realidad básica. 
 
--**Diseño y Arquitectura:** 
+-**Diseño y Arquitectura:** la realidad mixta se pueden proyectar edificios o construcciones virtuales sobre un escenario real para verificar diferentes parámetros ambientales, del terreno y del entorno en general. Las comunicaciones podrán ser más fluidas, porque la realidad mixta permitirá traducciones simultáneas con tal facilidad que no habrá siquiera que darle clic a un botón para iniciar.
+Esto ayudará a que el trabajo a distancia sea cada vez más ligero y popular, además que ya habrá herramientas desarrolladas para tal fin muy pronto.
+
 
 
 
